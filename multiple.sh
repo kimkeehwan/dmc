@@ -1,2 +1,2 @@
 #!/bin/bash
-for i in {1..3000}; do ./run.sh $i; done
+for i in {1..5000}; do ./run.sh $i; done
